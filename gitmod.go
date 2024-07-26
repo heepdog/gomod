@@ -4,7 +4,7 @@ import "fmt"
 
 func HelloGomod(){
 
-    message := fmt.sprintf("Hello from gomod")
+    message := fmt.Sprintf("Hello from gomod")
     return message
 }
 
